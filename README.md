@@ -6,7 +6,7 @@
 
 I enjoy turning ideas into practical, user-friendly websites and applications.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/jana-albakri-a0708b365/) · [GitHub](https://github.com/janabakri)
 
 </div>
 
@@ -80,8 +80,8 @@ I believe that strong developers are not only defined by the technologies they k
 
 I’m always open to learning, collaborating, and connecting with people who are passionate about technology and software development.
 
-- LinkedIn: [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
-- GitHub: [Jana Bakri](https://github.com/)
+- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/jana-albakri-a0708b365/)
+- GitHub: [Jana Bakri](https://github.com/janabakri)
 
 ---
 
@@ -131,7 +131,7 @@ I’m interested in connecting with developers, teams, and companies working on 
 
 If you would like to discuss a project, collaboration, or technology, feel free to reach out through LinkedIn or GitHub.
 
-- LinkedIn: [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/jana-albakri-a0708b365/)
 - GitHub: [@janabakri](https://github.com/janabakri)
 
 ---
