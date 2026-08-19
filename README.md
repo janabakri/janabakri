@@ -1,4 +1,3 @@
-<div align="center">
 
 Hi, I'm Jana Bakri
 
@@ -8,7 +7,6 @@ I enjoy turning ideas into practical, user-friendly websites and applications.
 
 LinkedIn · GitHub
 
-</div>
 
 
 
@@ -206,9 +204,7 @@ GitHub: Jana Bakri
 
 
 
-<div align="center">
 
 Thanks for visiting my profile!
 
-</div>
 
