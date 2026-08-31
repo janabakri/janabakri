@@ -132,7 +132,7 @@ I’m interested in connecting with developers, teams, and companies working on 
 
 If you would like to discuss a project, collaboration, or technology, feel free to reach out through LinkedIn or GitHub.
 
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/jana-albakri-a0708b365/)
+- LinkedIn: (https://www.linkedin.com/in/jana-albakri-a0708b365/)
 - GitHub: [@janabakri](https://github.com/janabakri)
 
 ---
