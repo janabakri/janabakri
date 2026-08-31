@@ -81,8 +81,6 @@ I believe that strong developers are not only defined by the technologies they k
 
 I’m always open to learning, collaborating, and connecting with people who are passionate about technology and software development.
 
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/jana-albakri-a0708b365/)
-- GitHub: [Jana Bakri](https://github.com/janabakri)
 
 ---
 
